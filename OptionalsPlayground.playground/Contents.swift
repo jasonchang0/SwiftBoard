@@ -22,7 +22,7 @@ class BlogPost {
     
     init() {
         body = ""
-        author = Person()
+        author = Person("Name")
         title = "My Title"
     }
     
