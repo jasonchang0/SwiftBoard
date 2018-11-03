@@ -57,8 +57,23 @@ switch char {
 
 var sum = 0
 
-for inddex in 1...5 {
+for index in 1...5 {
     sum += index
     print(sum)
 }
+
+
+var counter = -5
+
+while counter > 0 {
+    print("negative index")
+    counter -= 1
+}
+
+
+repeat {
+    print("might be negative")
+    counter -= 1
+} while counter > 0
+
 
