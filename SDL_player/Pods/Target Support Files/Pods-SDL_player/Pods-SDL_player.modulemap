@@ -1,0 +1,6 @@
+framework module Pods_SDL_player {
+  umbrella header "Pods-SDL_player-umbrella.h"
+
+  export *
+  module * { export * }
+}

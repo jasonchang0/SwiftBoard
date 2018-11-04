@@ -1,0 +1,6 @@
+framework module Pods_car_karaokeTests {
+  umbrella header "Pods-car_karaokeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

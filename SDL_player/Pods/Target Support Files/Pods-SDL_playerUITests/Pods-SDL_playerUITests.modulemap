@@ -1,0 +1,6 @@
+framework module Pods_SDL_playerUITests {
+  umbrella header "Pods-SDL_playerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
